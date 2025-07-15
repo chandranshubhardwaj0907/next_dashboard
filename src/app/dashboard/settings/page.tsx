@@ -30,7 +30,7 @@ const Settings = () => {
               <li>
                 <Link
                   className="flex items-center text-lg text-gray-800 hover:text-yellow-600 transition-colors py-2 px-4 rounded-md hover:bg-yellow-50"
-                  href="/dashboard/settings/notifications"
+                  href="/dashboard/settings/notification"
                 >
                   <span className="text-yellow-600">Notifications</span>
                 </Link>
